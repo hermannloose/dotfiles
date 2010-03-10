@@ -1,5 +1,7 @@
 colorscheme slate
 
+set guifont=Monospace\ 9
+
 "files
 set autochdir
 
