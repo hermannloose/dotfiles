@@ -1,3 +1,0 @@
-[submodule "vim"]
-	path = vim
-	url = http://github.com/hermannloose/dotvim.git
